@@ -19,6 +19,48 @@ O conteúdo apresentado a seguir é um **showcase e portfólio**  демонст
 [![Focus](https://img.shields.io/badge/Foco_Atual-Dashboards_Real_Time_🚀-FF7F00?style=for-the-badge&logo=Grafana&logoColor=white)](https://wa.me/5511913353137)
 [![Tech Stack](https://img.shields.io/badge/Tecnologias-Python_|_FastAPI_|_Flask_🐍-FF7F00?style=for-the-badge&logo=Python&logoColor=white)](https://wa.me/5511913353137)
 
+## 🖼️ Contexto das Imagens: Showcase de Dashboards Dinâmicos
+
+As imagens que você verá a seguir são **exemplos práticos e provas de conceito (POCs)** do módulo de dashboards dinâmicos que desenvolvo, parte integrante do framework Prometheus AI ou aplicáveis como soluções standalone. Elas demonstram a **versatilidade e capacidade** da ferramenta em diferentes cenários:
+
+1.  **Monitoramento de Sistemas e Microsserviços:**
+    *   **O que é:** Visualização do estado de saúde de componentes de software (como os do ecossistema Prometheus AI).
+    *   **Como é feito:** Cards exibem status (Online ✅, Offline ❌, Degraded ⚠️), porta de comunicação e rotas API essenciais. Usa cores distintas para rápida identificação.
+    *   **Aplica-se a:** Equipes de DevOps, SRE, Infraestrutura, para monitorar a estabilidade e disponibilidade de aplicações distribuídas.
+    *   **Diferenciais:** Visibilidade instantânea da saúde do sistema, detalhes técnicos (portas/rotas) acessíveis, identificação proativa de problemas (status Degraded).
+
+2.  **Dashboards Operacionais e de Negócios (POCs):**
+    *   **O que são:** Painéis focados em KPIs e métricas de processos de negócio específicos.
+    *   **Exemplos nas Imagens:**
+        *   **Gestão de Pedidos:** Acompanhamento de etapas (Faturamento, Separação, Pendente, Em Rota), com totais, tendências (▲▼) e tabela detalhada.
+        *   **Controle de Estoque:** Visão de totais, por categoria/marca (Pneus, Peças), e KPIs relacionados (Pedidos Dia/Semana/Mês).
+        *   **Performance de Vendas:** Desempenho individual por vendedor (R$, Nº Vendas).
+    *   **Como é feito:** Cards de KPI agregados e tabelas detalhadas, alimentados em tempo real via API (REST/gRPC). Layout modular e customizável via JSON.
+    *   **Aplica-se a:** Gestores de Operações, Logística, E-commerce, Vendas, Estoque em qualquer setor (Varejo, Indústria, Distribuição).
+    *   **Diferenciais:** Visão consolidada e em tempo real de processos críticos, combinação de visão macro (cards) e micro (tabelas), indicadores de tendência.
+
+3.  **Gestão de TI, Desenvolvimento e Feedback (POCs):**
+    *   **O que são:** Painéis para organizar e visualizar fluxos de trabalho internos de TI/Desenvolvimento e feedback de usuários/clientes.
+    *   **Exemplos nas Imagens:**
+        *   **Painel de Backlog:** Categorização de itens (Ideias 💡, Bugs 🐞, Features 🚀, Débito Técnico 🔧), com contagem atual e fluxo mensal.
+        *   **Painel de Atendimentos (Suporte):** Visão de tickets por departamento (TI, Operações, RH), com ativos e resolvidos no dia.
+        *   **Painel de Feedback:** Métricas de NPS (Promotores 😊, Neutros 😐, Detratores 😠) e categorias qualitativas (Elogios 👍, Sugestões 💡, Reclamações 🗣️).
+    *   **Como é feito:** Cards temáticos com contagens, métricas de fluxo ("Adicionados Mês", "Recebidos Período") e ícones representativos.
+    *   **Aplica-se a:** Product Owners, Scrum Masters, Gerentes de TI, Líderes de Suporte, Equipes de CX.
+    *   **Diferenciais:** Clareza na priorização (Backlog), identificação de gargalos (Suporte), entendimento rápido do sentimento do cliente (Feedback), métricas de fluxo temporal.
+
+**Tecnologia e Vantagens Comuns a Todos:**
+
+*   **Tecnologia Base:** Python (FastAPI/Flask), HTML/CSS/JS.
+*   **Alimentação:** Dados via APIs RESTful (JSON) ou gRPC (alta performance).
+*   **Atualização:** **Tempo Real** - os dados são exibidos assim que recebidos.
+*   **Design:** Modular, Responsivo, com uso inteligente de cores e ícones para clareza.
+*   **Customização:** Altamente adaptável via templates JSON, sem necessidade de alterar código frontend.
+*   **Integração:** Projetado para se conectar facilmente a diversas fontes de dados.
+*   **Escalabilidade:** Arquitetura pensada para lidar com volumes crescentes de dados.
+
+Essas imagens ilustram a capacidade de criar rapidamente dashboards **visualmente informativos, dinâmicos e adaptados** a necessidades específicas, proporcionando **inteligência operacional e estratégica** de forma ágil.
+
 ---
 
 <img width="1920" alt="chrome_0HWjwpVPpt" src="https://github.com/user-attachments/assets/729fd42d-f24b-4167-9792-e5c67feb9755" />
