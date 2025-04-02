@@ -4,7 +4,8 @@
 
 👋 Saudações! Sou **Elias Andrade**, profissional e prestador de serviços na área de tecnologia desde **2010**. Ao longo desses anos, acumulei um vasto expertise em diversas frentes, incluindo:
 
-<img width="388" alt="chrome_HZdXMUbQ20" src="https://github.com/user-attachments/assets/15726ec4-a34a-47a4-b356-9bb99e4a83b8" />
+<img width="599" alt="chrome_pJqEvho496" src="https://github.com/user-attachments/assets/8ff1befa-8860-4789-ac77-b8b972a05631" />
+
 
 
 *   Desenvolvimento de Software (Full-Stack) 💻
