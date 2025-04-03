@@ -9,6 +9,42 @@
 ---
 ---
 ---
+---
+
+## 📝 Dev Diary Update | Foco em ITSM: Gestão de Chamados e SLA Visual 🛠️⏱️
+
+*   **Date:** 03/04/2025
+*   **Time:** 18:30 horas (Estimado)
+*   **Focus:** Showcase de Dashboards para Service Desk / ITSM
+*   **Product:** Replika AI Dashboard Controller Module v0.1
+
+![Product Badge](https://img.shields.io/badge/Product-Replika_AI_Dashboard_Module-9cf?style=for-the-badge&logo=CodeIgniter&logoColor=white)
+![Focus Area](https://img.shields.io/badge/Foco-ITSM_|_Service_Desk-blueviolet?style=for-the-badge&logo=Jira&logoColor=white)
+![Status Badge](https://img.shields.io/badge/Status-POC_&_Template-brightgreen?style=for-the-badge)
+
+Expandindo as aplicações do **Replika AI Dashboard Controller Module**, as novas interfaces demonstram sua eficácia em cenários de **IT Service Management (ITSM) / Help Desk**.
+
+<img width="859" alt="chrome_arMjyaacPY" src="https://github.com/user-attachments/assets/89711a77-fd55-44af-8d25-da3210229276" />
+
+<img width="1173" alt="chrome_yHW8oW2HU4" src="https://github.com/user-attachments/assets/19383e0b-b329-49b5-9e1f-d30c636c09e8" />
+
+<img width="1864" alt="AsPowerBar_KRH0CmdQiL" src="https://github.com/user-attachments/assets/470af9ce-ac1a-489a-b101-0dccd8d1e107" />
+
+
+Os exemplos exibem:
+
+1.  **Listagem de Chamados:** Tabelas claras apresentando tickets (`#TICKET`), `REQUISITANTE`, `ASSUNTO`, status final (`Resolvido (SLA)` ✅ / `Resolvido (Fora SLA)` ❌), `TEMPO GASTO` e o status final do SLA.
+2.  **Monitoramento de SLA em Tempo Real:** Visualização de chamados `Em Atendimento` 🔵 com:
+    *   **Barras de Progresso SLA:** Indicadores visuais coloridos (Verde -> Amarelo -> Vermelho) que mostram o quão perto o ticket está de violar o SLA. 🚦
+    *   **Tempo Restante / Status SLA:** Exibição do tempo restante ou um alerta claro (`SLA Violado` 🔴) quando o limite é ultrapassado.
+
+**Valor Principal:** Fornece visibilidade instantânea sobre a performance do atendimento e o cumprimento dos Acordos de Nível de Serviço, essencial para gestores de TI e equipes de suporte otimizarem o fluxo de trabalho e garantirem a qualidade do serviço.
+
+Mais uma vez, o módulo demonstra sua flexibilidade em adaptar-se a diferentes necessidades de negócio com clareza e eficiência visual. ✨
+
+---
+**Elias Andrade**
+**Replika AI Solutions - Maringá Paraná**
 
 ## 🚀 Dev Diary Update | Showcase Integral: Replika AI Dashboard Controller Module v0.1 📊✨
 
