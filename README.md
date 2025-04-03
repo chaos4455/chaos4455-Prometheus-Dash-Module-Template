@@ -9,6 +9,64 @@
 ---
 ---
 
+---
+
+## 📝 Dev Diary Update | Aprofundando o Monitoramento: Rede e Infraestrutura PON 📡⏱️
+
+*   **Date:** 03/04/2025
+*   **Time:** 11:54 horas 
+*   **Focus:** Showcase de Interfaces Avançadas de Monitoramento (Network Health & PON Detail)
+*   **Module Version:** Replika AI Dashboard Controller Module v0.1
+
+![Module Version](https://img.shields.io/badge/Dashboard_Module-v0.1-blue?style=for-the-badge&logo=CodeIgniter&logoColor=white)
+![Focus Area](https://img.shields.io/badge/Foco-Monitoramento_Avançado_|_Rede_&_PON-purple?style=for-the-badge&logo=Grafana&logoColor=white)
+![Status](https://img.shields.io/badge/Status-POC_&_Template-brightgreen?style=for-the-badge)
+
+A evolução do **Replika AI Dashboard Controller Module** continua, e as novas interfaces demonstram um salto em **granularidade e especificidade** para cenários de monitoramento técnico avançado. As imagens recentes revelam *templates* poderosos focados em:
+
+### 1. Dashboard de Saúde da Rede (Network Health Check) 🌐핑퐁
+
+Este painel exemplifica o monitoramento ativo de múltiplos destinos ou serviços de rede:
+
+*   **Visão Geral de Status:** 🚦 Cards no topo agregam o status geral:
+    *   `DESTINOS PINGANDO`: Quantos alvos estão respondendo (ativos 🟢).
+    *   `DESTINOS SEM PING`: Alvos que falharam no teste de conectividade (offline ⚫/🔴).
+    *   `DESTINOS COM PERDA AGORA`: Alvos apresentando perda de pacotes (instável 🟡/🟠).
+    *   `DESTINOS ACIMA DE X MS`: Alvos com latência acima de um limite aceitável (lentos 🟣).
+    *   **Benefício:** Diagnóstico rápido da saúde geral da conectividade para serviços ou links críticos.
+
+*   **Análise Detalhada por Cliente/Serviço:** 🔬 A seção inferior foca em um alvo específico (`Website: Monitoring DNS2`):
+    *   **Gráficos de Métricas:** Visualização temporal de `LATÊNCIA` (ms) em gráfico de barras e `PACOTES PERDIDOS` em gráfico de linha, mostrando o comportamento recente.
+    *   **Estatísticas de Latência:** Cards dedicados exibem valores numéricos precisos: `ATUAL`, `MÉDIA` e `MÍNIMO` (ms).
+    *   **Benefício:** Permite um *deep dive* instantâneo na performance e estabilidade de um serviço ou conexão específica, essencial para troubleshooting.
+
+### 2. Resumo Detalhado por Porta PON (Passive Optical Network) 📡💡
+
+Este exemplo demonstra a capacidade de exibir dados complexos e multifacetados de equipamentos de infraestrutura, como uma OLT (Optical Line Terminal) de um ISP:
+
+*   **Tabela Densa de Informações:** 🔢 Uma tabela detalhada apresenta métricas cruciais para cada porta PON (`Slot/PON`):
+    *   **Contagens:** `ONLINE` (clientes ativos), `OFFLINE` (clientes inativos), `AUTORIZADOS` (total provisionado).
+    *   **Utilização:** `% OCUPADA` (com barra de progresso visual).
+    *   **Métricas Físicas:** `AMPERAGEM` (mA), `TX POWER` (dBm), `VOLTAGEM` (V), `TEMPERATURA` (°C).
+    *   **Status Operacional:** Um indicador claro de `STATUS` (ex: `DOWN` em vermelho 🔴).
+*   **Formatação Condicional:** ✨ O uso inteligente de cores (ex: vermelho para status `DOWN` ou temperaturas elevadas 🌡️) e elementos visuais (barra de progresso) acelera a identificação de problemas ou condições anormais.
+*   **Benefício:** Visão operacional completa e granular para equipes de NOC e de campo de ISPs, permitindo monitoramento proativo da saúde da planta de fibra óptica e diagnóstico rápido de falhas por porta.
+
+### 🚀 Capacidades Demonstradas:
+
+Essas novas interfaces reforçam a flexibilidade do **Replika AI Dashboard Controller Module v0.1** para:
+
+*   **Visualizar Dados Complexos:** Ir além de simples contadores para exibir métricas técnicas detalhadas e dados tabulares ricos.
+*   **Combinar Visão Macro e Micro:** Oferecer resumos de alto nível e permitir a análise aprofundada de componentes individuais.
+*   **Aplicar Formatação Inteligente:** Utilizar cores, gráficos e indicadores visuais para transformar dados brutos em *insights* acionáveis.
+*   **Atender a Verticais Específicas:** Criar painéis altamente customizados para necessidades de nicho, como operações de ISP e monitoramento de rede avançado.
+
+Continuamos a expandir os *templates* e as capacidades de visualização para fornecer ferramentas cada vez mais poderosas e adaptáveis aos nossos usuários.
+
+<img width="999" alt="chrome_3iNe5b1jfN" src="https://github.com/user-attachments/assets/cb1d95bf-5713-47b6-a140-f47a62d16262" />
+<img width="1237" alt="chrome_qUe631hMcn" src="https://github.com/user-attachments/assets/4b130ef4-3abc-4695-85ae-63cac1cd5113" />
+
+
 ## 📝 Dev Diary Update | Novas Fronteiras no Monitoramento 🌐🔌
 
 *   **Date:** 03/04/2025
