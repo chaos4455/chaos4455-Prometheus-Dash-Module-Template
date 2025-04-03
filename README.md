@@ -26,8 +26,6 @@ As novas interfaces demonstradas (conforme as imagens a seguir) destacam a capac
 
 ![chrome_AspGNMmTZ4](https://github.com/user-attachments/assets/c2c9c9b2-4720-4264-af27-2e57ec65418c)
 
-![chrome_UblwhWi4nC](https://github.com/user-attachments/assets/6232d04f-21af-42a4-bfe1-1abcfdeb031d)
-
 ![chrome_jdGaOapkgi](https://github.com/user-attachments/assets/e82f03c3-a844-4495-92ce-2900bd75bd8c)
 
 ![chrome_eHctQ5SKxk](https://github.com/user-attachments/assets/d4d002d1-4352-44c6-9bd3-2ea766ee1263)
